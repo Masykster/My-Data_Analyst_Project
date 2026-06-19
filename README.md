@@ -44,7 +44,7 @@ To run the Jupyter Notebooks on your local machine, please follow the steps belo
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/USERNAME/repository-name.git
+git clone https://github.com/Masykster/My-Data_Analyst_Project.git
 cd repository-name
 ```
 
@@ -98,6 +98,6 @@ Navigate to and open any of the following project notebooks:
 ## 📬 Contact & Collaboration
 Feel free to open an *Issue* or *Pull Request* to discuss regional economic development, spatial data analysis, or economic policy modeling.
 
-* **Author**: [Your Name]
-* **LinkedIn**: [Your LinkedIn Profile]
-* **Email**: [Your Email Address]
+* **Author**: Abdullah Masykur
+* **LinkedIn**: [https://www.linkedin.com/in/abdullah-masykur/]
+* **Email**: [masykur6060@gmail.com]
