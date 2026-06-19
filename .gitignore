@@ -1,0 +1,31 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+ipynb_checkpoints/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Data & Output exports (if any generated dynamically)
+*.html
+*.png
+*.jpg
+*.jpeg
+*.csv
+!**/data/*.csv
+!001_PDRB_vs_IPM_Jatim_2023/data/*.csv
+!002_Analisis Realisasi FDI Indonesia 2019-2023/data/*.csv
+!003_Analisis Indeks Pembangunan Manusia (IPM) Jawa Timur 2021-2025/data/*.csv
